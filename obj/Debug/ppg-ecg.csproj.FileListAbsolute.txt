@@ -1,0 +1,10 @@
+c:\users\yangyang\documents\visual studio 2012\Projects\ppg-ecg\ppg-ecg\bin\Debug\ppg-ecg.exe
+c:\users\yangyang\documents\visual studio 2012\Projects\ppg-ecg\ppg-ecg\bin\Debug\ppg-ecg.pdb
+c:\users\yangyang\documents\visual studio 2012\Projects\ppg-ecg\ppg-ecg\bin\Debug\ZedGraph.dll
+c:\users\yangyang\documents\visual studio 2012\Projects\ppg-ecg\ppg-ecg\obj\Debug\ppg_ecg.Form1.resources
+c:\users\yangyang\documents\visual studio 2012\Projects\ppg-ecg\ppg-ecg\obj\Debug\ppg_ecg.Properties.Resources.resources
+c:\users\yangyang\documents\visual studio 2012\Projects\ppg-ecg\ppg-ecg\obj\Debug\ppg-ecg.csproj.GenerateResource.Cache
+c:\users\yangyang\documents\visual studio 2012\Projects\ppg-ecg\ppg-ecg\obj\Debug\ppg-ecg.exe
+c:\users\yangyang\documents\visual studio 2012\Projects\ppg-ecg\ppg-ecg\obj\Debug\ppg-ecg.pdb
+C:\Users\yangyang\documents\visual studio 2012\Projects\ppg-ecg\ppg-ecg\bin\Debug\ppg-ecg.exe.config
+C:\Users\yangyang\documents\visual studio 2012\Projects\ppg-ecg\ppg-ecg\obj\Debug\ppg-ecg.csprojResolveAssemblyReference.cache
